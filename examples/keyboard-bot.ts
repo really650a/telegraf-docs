@@ -1,6 +1,6 @@
 import { Telegraf, Markup } from "telegraf";
 
-const bot = new Telegraf(token);
+const bot = new Telegraf("5769907387:AAEJSjo2cu7dsw5h1xbyPi568TijI4rp4-Q");
 
 bot.use(Telegraf.log());
 
